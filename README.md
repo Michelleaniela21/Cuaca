@@ -16,3 +16,9 @@ Pengguna cukup mengetik nama kota, lalu aplikasi akan menampilkan suhu, kondisi 
 - Desain sederhana dan mudah digunakan
 - Menampilkan data langsung dari API
 
+## Demo Website
+[Klik di sini untuk melihat aplikasi](https://michelleaniela21.github.io/Cuaca/)
+
+## Catatan
+Project ini merupakan hasil tugas workshop sebagai latihan membuat aplikasi web interaktif.
+Melalui project ini, saya belajar cara menggunakan API dan menampilkan data real-time di website
